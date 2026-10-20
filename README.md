@@ -60,6 +60,17 @@ The campaign was planned as a two-month trial, with customers assigned to test a
 
 The test group was offered the new credit card, while the control group was used as a basis for comparison.
 
+### Post-Campaign Analysis
+
+For each of the 40 customers in the control and test groups, their daily average transaction amount was tracked during the 2-month campaign.
+
+The main question this test was designed to answer was:
+Did the new credit card increase the average transaction amount?
+
+Before running the statistical test, the transaction amounts of the two groups were compared to see how they were spread out.
+
+![AB Testing Distribution Comparison](images/ab_testing_distribution_comparison.png)
+
 ### Hypothesis Testing
 
 The main objective was to determine whether the average transaction amount in the test group was significantly higher than that in the control group.
