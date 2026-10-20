@@ -36,7 +36,7 @@ The first phase involves exploring and analyzing customer, credit profile, and t
 
 Based on the analysis, the **18–25 age group** was identified as a potential target segment for the new credit card.
 
-![Target Market Selection](images/bank_project_phase_1.png)
+![Target Market Selection](images/bank_project_phase_1.ipynb)
 
 The analysis highlighted several characteristics of this group:
 
